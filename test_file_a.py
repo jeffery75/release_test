@@ -1,3 +1,3 @@
 # This is a test file added originally to the `master` branch.
-# 001 -- HOTFIX
-#
+# 002 -- HOTFIX (again)
+# applied to master while release exists
