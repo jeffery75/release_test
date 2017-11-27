@@ -1,7 +1,5 @@
-# This is a test file added originally to the `develop` branch.
-# 001
+# 
+# test_file_1.py
 #
-# This is a 'hotfix' to the master branch.  It should get
-# merged back to both release & develop.
-# 002
+# version: 1.00
 #
