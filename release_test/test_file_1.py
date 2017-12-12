@@ -1,6 +1,6 @@
 # 
 # test_file_1.py
 #
-# version: 1.1b1
-# The starting point, for release 1.1b1
+# version: 1.1b2
+# This is another release fix.
 #
