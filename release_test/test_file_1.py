@@ -5,6 +5,8 @@
 # Below is a history of stuff done.
 #=========================================================================================
 #
+# For version: 1.2.2 - hotfix!!!
+#
 # For version: 1.2a3
 # New features have been added
 #
