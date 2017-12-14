@@ -5,6 +5,8 @@
 # Below is a history of stuff done.
 #=========================================================================================
 #
+# For version: 1.5.1 - This is a hotfix, prior to dropping release branch.
+#
 # For version: 1.5a2 - This should be a conflict with 1.4b2.  Look out! Manually merged.
 # For version: 1.4b2 - Another just in time fix!
 # For version: 1.4a3 - Another very super cool feature!  Single spacing!
