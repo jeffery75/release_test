@@ -5,6 +5,7 @@
 # Below is a history of stuff done.
 #=========================================================================================
 #
+# For version: 1.4b2 - Another just in time fix!
 # For version: 1.4a3 - Another very super cool feature!  Single spacing!
 # For version: 1.3b2 - this is a release fix...good catch!
 #
