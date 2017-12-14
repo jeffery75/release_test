@@ -5,6 +5,8 @@
 # Below is a history of stuff done.
 #=========================================================================================
 #
+# For version: 1.3b2 - this is a release fix...good catch!
+#
 # For version: 1.3a3 - more cool features!
 #
 # For version: 1.2.2 - hotfix!!!
