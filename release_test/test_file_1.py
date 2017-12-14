@@ -5,6 +5,7 @@
 # Below is a history of stuff done.
 #=========================================================================================
 #
+# For version: 1.6b2 - Catching a bug
 # For version: 1.6a18 - Finally some new features up in this thing
 #
 # For version: 1.5.8 - Hotfix again.
